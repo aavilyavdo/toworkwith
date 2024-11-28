@@ -64,3 +64,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+But this is a codebase, I used for creating my Bus Scheduler project. Next feature to be done is to connect this project to some service delivering real time info about traffic.
